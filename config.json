@@ -2,14 +2,14 @@
   "cache_time": 7200,
   "api_site": {
     "hnzy": {
-      "api": "https://www.pgxdy.com/api/xml.php",
+      "api": "https://www.pgxdy.com/api/json.php",
       "name": "黄AV资源站",
       "is_adult": true
     },
     "lzzy": {
-      "api": "https://api.liangzizy.com/inc/apijson_vod.php",
-      "name": "量子资源",
-      "is_adult": false
+      "api": "https://www.xrbsp.com/api/json.php",
+      "name": "淫水机资源站",
+      "is_adult": true
     },
     "ffzy": {
       "api": "https://ffzyapi.com/api.php/provide/vod",
