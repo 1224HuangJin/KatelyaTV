@@ -1,15 +1,35 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "hnzy": {
-      "api": "https://www.pgxdy.com/api/json.php",
-      "name": "黄AV资源站",
-      "is_adult": false
+    "msnv": {
+      "api": "https://www.msnii.com/api/json.php",
+      "name": "美少女资源站",
+      "detail": "https://www.msn2.yachts/cn/home/web/"
     },
-    "lzzy": {
+    "ysjv": {
       "api": "https://www.xrbsp.com/api/json.php",
       "name": "淫水机资源站",
-      "is_adult": false
+      "detail": "https://www.ysj7.work/cn/home/web/"
+    },
+    "xnev": {
+      "api": "https://www.gdlsp.com/api/json.php",
+      "name": "香奶儿资源站",
+      "detail": "https://www.xne5.help/cn/home/web/"
+    },
+    "bpv": {
+      "api": "https://www.kxgav.com/api/json.php",
+      "name": "白嫖资源站",
+      "detail": "https://www.bp9.world/cn/home/web/"
+    },
+    "xsmv": {
+      "api": "https://www.afasu.com/api/json.php",
+      "name": "小湿妹资源站",
+      "detail": "https://www.xsm8.fit/cn/home/web/"
+    },
+    "havv": {
+      "api": "https://www.pgxdy.com/api/json.php",
+      "name": "黄AV资源站",
+      "detail": "https://www.hav6.motorcycles/cn/home/web/"
     }
   }
 }
