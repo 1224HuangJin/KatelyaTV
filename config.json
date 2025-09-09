@@ -4,26 +4,11 @@
     "hnzy": {
       "api": "https://www.pgxdy.com/api/json.php",
       "name": "黄AV资源站",
-      "is_adult": true
+      "is_adult": false
     },
     "lzzy": {
       "api": "https://www.xrbsp.com/api/json.php",
       "name": "淫水机资源站",
-      "is_adult": true
-    },
-    "ffzy": {
-      "api": "https://ffzyapi.com/api.php/provide/vod",
-      "name": "非凡资源",
-      "is_adult": false
-    },
-    "ykzy": {
-      "api": "https://api.yongjiuzy.cc/provide/vod",
-      "name": "永久资源",
-      "is_adult": false
-    },
-    "bdzy": {
-      "api": "https://api.1080zyku.com/inc/apijson_vod.php",
-      "name": "百度资源",
       "is_adult": false
     }
   }
